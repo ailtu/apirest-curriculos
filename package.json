@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ailtu/apirest-curriculos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ailtu/apirest-curriculos/issues"
+  },
+  "homepage": "https://github.com/ailtu/apirest-curriculos#readme"
 }
